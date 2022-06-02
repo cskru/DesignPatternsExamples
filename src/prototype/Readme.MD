@@ -1,4 +1,4 @@
-#Prototype Pattern
+# Prototype Pattern
 Useful while cloning complex objects without depending on the concrete classes.  
 Prototype Interface has clone method.
 The class (whose instance has to be copied) can extend the Prototype interface.  
