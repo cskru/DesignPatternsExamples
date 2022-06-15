@@ -1,5 +1,5 @@
-Design Patterns Examples
-Every pattern package has a Run.java that can be used to run the example.
+# Design Patterns Examples  
+Every pattern package has a Run.java that can be used to run the example.  
 
 1. [Adapter Pattern](https://github.com/cskru/DesignPatternsExamples/tree/master/src/adapter)
 2. [Bridge Pattern](https://github.com/cskru/DesignPatternsExamples/tree/master/src/bridge)
